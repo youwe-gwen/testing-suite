@@ -47,7 +47,7 @@
         "youwe/coding-standard-phpstorm": "^2.3.0"
     },
     "require-dev": {
-        "composer/composer": "@stable",
+        "composer/composer": "^2.8",
         "mikey179/vfsstream": "@stable",
         "phpunit/phpunit": "@stable"
     },
